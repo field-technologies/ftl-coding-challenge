@@ -18,9 +18,16 @@ Once you've got through the first part, let's get to the interesting bits. You l
     * Phone number input is required AND a valid format (don't overthink it, don't have to cover all possible cases)
 How you display the form validation is up to you - extra points for good UX
 
-> Congratulations btw - you've just done about 80% of web development
-
 ### Testing
 
 * Add a playwright test that validates that all inputs (including the new requested ones) are present
 * Add a playwhright test that enters the data in all the inputs and validates that the data shows up in the new page.
+
+### Make it all do something
+
+* On the new page you've made, take the address you've entered and send that to a weather API, for example (Open Weather)[https://openweathermap.org/api] - but use whichever you like - and show the user the weather.
+
+### Styling
+
+* Looks kind of bland here. Please make it look better. You can use whatever you like - CSS/SASS/LESS, or Tailwind or another library if you want
+* Show how you would make it responsive for mobile and other environments
