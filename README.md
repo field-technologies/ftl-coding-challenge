@@ -31,3 +31,4 @@ How you display the form validation is up to you - extra points for good UX
 
 * Looks kind of bland here. Please make it look better. You can use whatever you like - CSS/SASS/LESS, or Tailwind or another library if you want
 * Show how you would make it responsive for mobile and other environments
+* Can you add a footer that's stuck to the bottom of the page?
