@@ -6,8 +6,8 @@ export default function Home() {
         <div className="header">
           <h1>Welcome to the FTL Coding Challenge!</h1>
           <p>
-            To start, please add an address field to the form below,
-            and then have the form send the user to a new page that 
+            To start, please allow a user to enter their address in the form below.
+            Then have the form send the user to a new page that 
             displays the information they entered.
           </p>
         </div>
