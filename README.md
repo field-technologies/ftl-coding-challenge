@@ -25,7 +25,7 @@ How you display the form validation is up to you - extra points for good UX
 
 ### Make it all do something
 
-* On the new page you've made, take the address you've entered and send that to a weather API, for example (Open Weather)[https://openweathermap.org/api] - but use whichever you like - and show the user the weather.
+* On the new page you've made, take the address you've entered and send that to a weather API, for example (Open Weather)[https://openweathermap.org/api] or (Open Meteo)[https://open-meteo.com/] - but use whichever you like - and show the user the weather.
 
 ### Styling
 
