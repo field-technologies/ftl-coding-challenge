@@ -14,11 +14,6 @@ Once you've got through the first part (the instructions on the screen) - let's 
     * Phone number input is required AND a valid format (don't overthink it, don't have to cover all possible cases)
     * Validate the field/fields you added as well
 How you display the form validation is up to you - extra points for good UX.
-      
-### Testing
-
-* Add a playwright test that validates that all inputs (including the new requested ones) are present
-* Add a playwhright test that enters the data in all the inputs and validates that the data shows up in the new page.
 
 ### Make it all do something
 
@@ -27,6 +22,11 @@ How you display the form validation is up to you - extra points for good UX.
    * (hint) check out what comes back from that call that might also be helpful in the next step...
 
 * On the new page you've made, take the address you've entered and send that to a weather API, for example (Open Weather)[https://openweathermap.org/api] or (Open Meteo)[https://open-meteo.com/] - but use whichever you like - and show the user the weather.
+
+### Testing
+
+* Add a playwright test that validates that all inputs (including the new requested ones) are present
+* Add a playwhright test that enters the data in all the inputs and validates that the data shows up in the new page.
 
 ### Styling
 
