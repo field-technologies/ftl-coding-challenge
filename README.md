@@ -21,7 +21,7 @@ How you display the form validation is up to you - extra points for good UX.
    * you'll find a test key in an example environment file.
    * (hint) check out what comes back from that call that might also be helpful in the next step...
 
-* On the new page you've made, take the address you've entered and send that to a weather API, for example (Open Weather) [https://openweathermap.org/api] - but use whichever you like - and show the user the weather.
+* On the new page you've made, take the address you've entered and send that to a weather API, for example [Open Weather](https://openweathermap.org/api) - but use whichever you like - and show the user the weather.
 
 ### Testing
 
